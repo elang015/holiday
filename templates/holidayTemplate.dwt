@@ -1,0 +1,18 @@
+<!doctype html>
+<html>	
+<link href="../styles/holidayStyles.css" rel="stylesheet" type="text/css">
+
+
+<body>
+<div id="wrapper"><img src="../images/christmasBanner.png" width="1200" height="400" alt=""/>
+  <h1>Eric's Christmas World</h1>
+  <title>The most wonderful time of the year!</title>
+  <p><img src="../images/Gingerbread Man.jpg" width="198" height="255" alt=""/><img src="../images/Santa.jpg" width="208" height="307" alt=""/>
+  </p>
+  <h2>About</h2>
+  <p>Christmas is known as the birth of Jesus. It is the time when we celebrate for the son of God. Santa is the most iconic character of this holiday.</p>
+  <h2>My Traditions</h2>
+  <p>During Christmas time, my family and I often decorate our tree. We also have nifty treats like cookies and hot chocolate sometimes. We also like listening to Christmas music and watching funny Christmas movies!</p>
+</div><!--wrap end-->
+</body>
+</html>
